@@ -1,0 +1,105 @@
+
+Arrays
+Find the largest element in an array : https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
+Find the smallest element in an array : https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1
+Find the second largest element : https://www.geeksforgeeks.org/problems/second-largest3735/1
+Reverse an array : https://www.geeksforgeeks.org/problems/reverse-an-array/1
+Check if array is sorted : https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
+Remove Duplicates from Sorted Array : https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+Move all zeros to the end : https://leetcode.com/problems/move-zeroes/description/
+Left rotate array by one position : https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
+Right rotate array by K positions : https://leetcode.com/problems/rotate-array/description/
+Find missing number in array: https://leetcode.com/problems/missing-number/description/
+Find the duplicate element in array : https://leetcode.com/problems/find-the-duplicate-number/
+Sum of all elements in array : https://www.geeksforgeeks.org/problems/sum-of-array2326/1
+Count even and odd numbers in array : https://www.geeksforgeeks.org/problems/count-odd-even/1
+Find maximum subarray sum : https://leetcode.com/problems/maximum-subarray/description/
+Two Sum – find pair with given sum : https://www.geeksforgeeks.org/problems/key-pair5616/1
+Sort array of 0s, 1s, and 2s : https://leetcode.com/problems/sort-colors/description/
+Find leaders in an array : https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+Best time to buy and sell stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+Merge two sorted arrays : https://leetcode.com/problems/merge-sorted-array/description/
+Find the intersection of two arrays : https://leetcode.com/problems/intersection-of-two-arrays/description/
+Find the union of two arrays : https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1
+Subarray with given sum (positive numbers) : https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
+Maximum product of two elements in array : https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/
+Count occurrences of an element in array : https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/
+Find majority element (appears > N/2 times) : https://leetcode.com/problems/majority-element/description/
+
+Strings
+Reverse a string : https://leetcode.com/problems/reverse-string/description/
+Check if string is a palindrome : https://leetcode.com/problems/valid-palindrome/description/
+Count vowels and consonants in a string : https://www.naukri.com/code360/problems/count-vowels-consonants-and-spaces_5026361?leftPanelTabValue=SUBMISSION
+Count occurrences of a character in string : https://www.geeksforgeeks.org/problems/count-the-characters1821/1
+Convert string to uppercase / lowercase : https://www.geeksforgeeks.org/problems/toggle-case/1
+Reverse words in a sentence : https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
+Check if two strings are equal (ignore case) : https://www.geeksforgeeks.org/dsa/check-if-two-strings-are-same-ignoring-their-cases/
+Find length of string without using built-in : https://www.geeksforgeeks.org/problems/length-of-string/1
+Concatenate two strings without built-in : https://www.geeksforgeeks.org/problems/string-concatenation-1614157859/1
+Count words in a sentence : https://www.geeksforgeeks.org/problems/counting-number-of-sentences-and-words-in-text3226/1
+Find first non-repeating character : https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1
+Check if two strings are anagrams : https://leetcode.com/problems/valid-anagram/description/
+Find all permutations of a string : https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1
+Longest common prefix among array of strings : https://leetcode.com/problems/longest-common-prefix/description/
+Check if one string is rotation of another : https://leetcode.com/problems/rotate-string/description/
+Remove duplicate characters from string : https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1
+String compression (e.g. "aabcc" → "a2b1c2") : https://leetcode.com/problems/string-compression/description/
+Longest substring without repeating characters : https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+Replace spaces with '%20' (URL encoding) : https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1
+Check if string is a valid number : https://leetcode.com/problems/valid-number/description/
+Find the most frequent character in a string: https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1
+Reverse only vowels in a string : https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+Check balanced parentheses in a string : https://leetcode.com/problems/valid-parentheses/description/
+
+
+Set
+Remove duplicates from an array using Set: https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1
+Check if two arrays have common elements: https://www.geeksforgeeks.org/problems/common-elements5420/1
+Find unique elements in an array : https://www.geeksforgeeks.org/problems/find-unique-element2632/1
+Find the first repeated element in array : https://www.geeksforgeeks.org/problems/first-repeating-element4018/1
+Find the first non-repeated element : https://www.geeksforgeeks.org/problems/non-repeating-element3958/1
+Find elements present in first array but not second : https://www.geeksforgeeks.org/problems/in-first-but-second5423/1
+Find union of two arrays using Set: https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1
+Longest consecutive sequence in array: https://leetcode.com/problems/longest-consecutive-sequence/description/
+Check if array contains duplicate within K distance : http://geeksforgeeks.org/problems/kth-distance3757/1
+
+
+HashMap
+Count frequency of each element in array : https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1
+Count frequency of each character in string : https://www.naukri.com/code360/problems/count-frequency_920323?leftPanelTabValue=SUBMISSION
+Find the element with highest frequency : https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1
+Find the element with lowest/highest frequency : https://www.naukri.com/code360/problems/k-most-occurrent-numbers_625382?leftPanelTabValue=PROBLEM
+
+Two Sum using HashMap : https://leetcode.com/problems/two-sum/description/
+Group anagrams together : https://www.geeksforgeeks.org/problems/print-anagrams-together/1
+Find all pairs with given sum using HashMap : https://www.geeksforgeeks.org/problems/all-distinct-pairs-with-given-sum/1
+Check if array is a subset of another using Map : https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1
+First recurring character using HashMap : https://www.geeksforgeeks.org/problems/repeated-character2058/1
+Print all elements with frequency > K : https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1
+Find majority element using HashMap : https://leetcode.com/problems/majority-element/description/
+Sort characters by frequency : https://leetcode.com/problems/sort-characters-by-frequency/description/
+Sort characters by frequency : https://leetcode.com/problems/sort-characters-by-frequency/description/
+Find the longest subarray with equal 0s and 1s : https://leetcode.com/problems/contiguous-array/description/
+Count subarrays with given sum using prefix sum : https://leetcode.com/problems/subarray-sum-equals-k/description/
+
+
+Basic Recursion:
+Print numbers from 1 to N using recursion: https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1
+Print numbers from N to 1 using recursion: https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1
+Calculate factorial of N using recursion: https://www.geeksforgeeks.org/problems/factorial5739/1
+Find Nth Fibonacci number using recursion : https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1
+Calculate power of a number (x^n) : https://www.naukri.com/code360/problems/find-power-of-a-number_893198?leftPanelTabValue=PROBLEM
+Sum of digits of a number using recursion : https://www.geeksforgeeks.org/problems/sum-of-digits1742/1
+Reverse a string using recursion : https://www.geeksforgeeks.org/problems/reverse-a-string/1
+Check palindrome using recursion : https://www.geeksforgeeks.org/problems/palindrome-string0817/1
+Find GCD of two numbers using recursion : https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
+Count digits of a number using recursion : https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1
+Sum of first N natural numbers using recursion : https://www.geeksforgeeks.org/problems/sum-of-series2811/1
+Find minimum element in array using recursion : https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
+Check if array is sorted using recursion : https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
+Binary search using recursion : https://www.geeksforgeeks.org/problems/binary-search-1587115620/1
+Count occurrences of element in array : https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1
+Print all subsets of an array : https://leetcode.com/problems/subsets/description/
+Flatten a nested array using recursion : https://leetcode.com/problems/flatten-deeply-nested-array/
+Climbing stairs – count ways to reach Nth stair : https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1
+
